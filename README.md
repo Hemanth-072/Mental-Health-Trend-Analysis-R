@@ -11,7 +11,6 @@ This project examines global trends in mental health disorder prevalence (schizo
 5. [Analysis Steps](#analysis-steps)  
 6. [Results Summary](#results-summary)  
 7. [Future Directions](#future-directions)  
-8. [License](#license)  
 
 ---
 
